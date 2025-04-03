@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { FaDumbbell, FaRunning, FaAppleAlt, FaWeight, FaUsers, FaHeartbeat } from 'react-icons/fa';
+import { FaDumbbell, FaAppleAlt, FaWeight, FaUsers, FaHeartbeat } from 'react-icons/fa';
 
 const Services = () => {
   const programs = [
